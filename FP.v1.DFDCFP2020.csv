@@ -1,12 +1,6 @@
-FRED Graph Observations,Column 2
-Federal Reserve Economic Data,
-Link: https://fred.stlouisfed.org,
-Help: https://fredhelp.stlouisfed.org,
-Economic Research Division,
-Federal Reserve Bank of St. Louis,
-PCU3112113112111,"Producer Price Index by Industry: Flour Milling: Wheat Flour (Except Flour Mixes), Made in Flour Mills, Index Jun 1983=100, Monthly, Not Seasonally Adjusted"
+"Producer Price Index by Industry: Flour Milling"
 Frequency: Monthly,
-observation_date,PCU3112113112111
+observation_date
 Sat Jan 01 00:00:00 EST 2022,257
 Wed Dec 01 00:00:00 EST 2021,262
 Mon Nov 01 00:00:00 EDT 2021,263
